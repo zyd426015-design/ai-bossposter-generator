@@ -1,0 +1,5 @@
+{
+  "name": "老板节日海报",
+  "description": "一款全自动化的商户社交维护工具，通过 AI 识别日期生成意境海报，并集成数字名片功能。",
+  "requestFramePermissions": ["geolocation"]
+}
